@@ -1,0 +1,399 @@
+,brand,name,model_year,origin,cylinders,mpg,displacement,horsepower,weight
+0,chevrolet,chevrolet chevelle malibu,70,usa,8,18,307,130.0,3504
+1,buick,buick skylark 320,70,usa,8,15,350,165.0,3693
+2,plymouth,plymouth satellite,70,usa,8,18,318,150.0,3436
+3,amc,amc rebel sst,70,usa,8,16,304,150.0,3433
+4,ford,ford torino,70,usa,8,17,302,140.0,3449
+5,ford,ford galaxie 500,70,usa,8,15,429,198.0,4341
+6,chevrolet,chevrolet impala,70,usa,8,14,454,220.0,4354
+7,plymouth,plymouth fury iii,70,usa,8,14,440,215.0,4312
+8,pontiac,pontiac catalina,70,usa,8,14,455,225.0,4425
+9,amc,amc ambassador dpl,70,usa,8,15,390,190.0,3850
+10,dodge,dodge challenger se,70,usa,8,15,383,170.0,3563
+11,plymouth,plymouth 'cuda 340,70,usa,8,14,340,160.0,3609
+12,chevrolet,chevrolet monte carlo,70,usa,8,15,400,150.0,3761
+13,buick,buick estate wagon (sw),70,usa,8,14,455,225.0,3086
+14,toyota,toyota corona mark ii,70,japan,4,24,113,95.0,2372
+15,plymouth,plymouth duster,70,usa,6,22,198,95.0,2833
+16,amc,amc hornet,70,usa,6,18,199,97.0,2774
+17,ford,ford maverick,70,usa,6,21,200,85.0,2587
+18,datsun,datsun pl510,70,japan,4,27,97,88.0,2130
+19,volkswagen,volkswagen 1131 deluxe sedan,70,europe,4,26,97,46.0,1835
+20,peugeot,peugeot 504,70,europe,4,25,110,87.0,2672
+21,audi,audi 100 ls,70,europe,4,24,107,90.0,2430
+22,saab,saab 99e,70,europe,4,25,104,95.0,2375
+23,bmw,bmw 2002,70,europe,4,26,121,113.0,2234
+24,amc,amc gremlin,70,usa,6,21,199,90.0,2648
+25,ford,ford f250,70,usa,8,10,360,215.0,4615
+26,chevrolet,chevy c20,70,usa,8,10,307,200.0,4376
+27,dodge,dodge d200,70,usa,8,11,318,210.0,4382
+28,hi,hi 1200d,70,usa,8,9,304,193.0,4732
+29,datsun,datsun pl510,71,japan,4,27,97,88.0,2130
+30,chevrolet,chevrolet vega 2300,71,usa,4,28,140,90.0,2264
+31,toyota,toyota corona,71,japan,4,25,113,95.0,2228
+32,ford,ford pinto,71,usa,4,25,98,119.0,2046
+33,amc,amc gremlin,71,usa,6,19,232,100.0,2634
+34,plymouth,plymouth satellite custom,71,usa,6,16,225,105.0,3439
+35,chevrolet,chevrolet chevelle malibu,71,usa,6,17,250,100.0,3329
+36,ford,ford torino 500,71,usa,6,19,250,88.0,3302
+37,amc,amc matador,71,usa,6,18,232,100.0,3288
+38,chevrolet,chevrolet impala,71,usa,8,14,350,165.0,4209
+39,pontiac,pontiac catalina brougham,71,usa,8,14,400,175.0,4464
+40,ford,ford galaxie 500,71,usa,8,14,351,153.0,4154
+41,plymouth,plymouth fury iii,71,usa,8,14,318,150.0,4096
+42,dodge,dodge monaco (sw),71,usa,8,12,383,180.0,4955
+43,ford,ford country squire (sw),71,usa,8,13,400,170.0,4746
+44,pontiac,pontiac safari (sw),71,usa,8,13,400,175.0,5140
+45,amc,amc hornet sportabout (sw),71,usa,6,18,258,110.0,2962
+46,chevrolet,chevrolet vega (sw),71,usa,4,22,140,72.0,2408
+47,pontiac,pontiac firebird,71,usa,6,19,250,100.0,3282
+48,ford,ford mustang,71,usa,6,18,250,88.0,3139
+49,mercury,mercury capri 2000,71,usa,4,23,122,86.0,2220
+50,opel,opel 1900,71,europe,4,28,116,90.0,2123
+51,peugeot,peugeot 304,71,europe,4,30,79,70.0,2074
+52,fiat,fiat 124b,71,europe,4,30,88,76.0,2065
+53,toyota,toyota corolla 1200,71,japan,4,31,71,65.0,1773
+54,datsun,datsun 1200,71,japan,4,35,72,69.0,1613
+55,volkswagen,volkswagen model 111,71,europe,4,27,97,60.0,1834
+56,plymouth,plymouth cricket,71,usa,4,26,91,70.0,1955
+57,toyota,toyota corona hardtop,72,japan,4,24,113,95.0,2278
+58,dodge,dodge colt hardtop,72,usa,4,25,97,80.0,2126
+59,volkswagen,volkswagen type 3,72,europe,4,23,97,54.0,2254
+60,chevrolet,chevrolet vega,72,usa,4,20,140,90.0,2408
+61,ford,ford pinto runabout,72,usa,4,21,122,86.0,2226
+62,chevrolet,chevrolet impala,72,usa,8,13,350,165.0,4274
+63,pontiac,pontiac catalina,72,usa,8,14,400,175.0,4385
+64,plymouth,plymouth fury iii,72,usa,8,15,318,150.0,4135
+65,ford,ford galaxie 500,72,usa,8,14,351,153.0,4129
+66,amc,amc ambassador sst,72,usa,8,17,304,150.0,3672
+67,mercury,mercury marquis,72,usa,8,11,429,208.0,4633
+68,buick,buick lesabre custom,72,usa,8,13,350,155.0,4502
+69,oldsmobile,oldsmobile delta 88 royale,72,usa,8,12,350,160.0,4456
+70,chrysler,chrysler newport royal,72,usa,8,13,400,190.0,4422
+71,mazda,mazda rx2 coupe,72,japan,3,19,70,97.0,2330
+72,amc,amc matador (sw),72,usa,8,15,304,150.0,3892
+73,chevrolet,chevrolet chevelle concours (sw),72,usa,8,13,307,130.0,4098
+74,ford,ford gran torino (sw),72,usa,8,13,302,140.0,4294
+75,plymouth,plymouth satellite custom (sw),72,usa,8,14,318,150.0,4077
+76,volvo,volvo 145e (sw),72,europe,4,18,121,112.0,2933
+77,volkswagen,volkswagen 411 (sw),72,europe,4,22,121,76.0,2511
+78,peugeot,peugeot 504 (sw),72,europe,4,21,120,87.0,2979
+79,renault,renault 12 (sw),72,europe,4,26,96,69.0,2189
+80,ford,ford pinto (sw),72,usa,4,22,122,86.0,2395
+81,datsun,datsun 510 (sw),72,japan,4,28,97,92.0,2288
+82,toyouta,toyouta corona mark ii (sw),72,japan,4,23,120,97.0,2506
+83,dodge,dodge colt (sw),72,usa,4,28,98,80.0,2164
+84,toyota,toyota corolla 1600 (sw),72,japan,4,27,97,88.0,2100
+85,buick,buick century 350,73,usa,8,13,350,175.0,4100
+86,amc,amc matador,73,usa,8,14,304,150.0,3672
+87,chevrolet,chevrolet malibu,73,usa,8,13,350,145.0,3988
+88,ford,ford gran torino,73,usa,8,14,302,137.0,4042
+89,dodge,dodge coronet custom,73,usa,8,15,318,150.0,3777
+90,mercury,mercury marquis brougham,73,usa,8,12,429,198.0,4952
+91,chevrolet,chevrolet caprice classic,73,usa,8,13,400,150.0,4464
+92,ford,ford ltd,73,usa,8,13,351,158.0,4363
+93,plymouth,plymouth fury gran sedan,73,usa,8,14,318,150.0,4237
+94,chrysler,chrysler new yorker brougham,73,usa,8,13,440,215.0,4735
+95,buick,buick electra 225 custom,73,usa,8,12,455,225.0,4951
+96,amc,amc ambassador brougham,73,usa,8,13,360,175.0,3821
+97,plymouth,plymouth valiant,73,usa,6,18,225,105.0,3121
+98,chevrolet,chevrolet nova custom,73,usa,6,16,250,100.0,3278
+99,amc,amc hornet,73,usa,6,18,232,100.0,2945
+100,ford,ford maverick,73,usa,6,18,250,88.0,3021
+101,plymouth,plymouth duster,73,usa,6,23,198,95.0,2904
+102,volkswagen,volkswagen super beetle,73,europe,4,26,97,46.0,1950
+103,chevrolet,chevrolet impala,73,usa,8,11,400,150.0,4997
+104,ford,ford country,73,usa,8,12,400,167.0,4906
+105,plymouth,plymouth custom suburb,73,usa,8,13,360,170.0,4654
+106,oldsmobile,oldsmobile vista cruiser,73,usa,8,12,350,180.0,4499
+107,amc,amc gremlin,73,usa,6,18,232,100.0,2789
+108,toyota,toyota carina,73,japan,4,20,97,88.0,2279
+109,chevrolet,chevrolet vega,73,usa,4,21,140,72.0,2401
+110,datsun,datsun 610,73,japan,4,22,108,94.0,2379
+111,mazda,maxda rx3,73,japan,3,18,70,90.0,2124
+112,ford,ford pinto,73,usa,4,19,122,85.0,2310
+113,mercury,mercury capri v6,73,usa,6,21,155,107.0,2472
+114,fiat,fiat 124 sport coupe,73,europe,4,26,98,90.0,2265
+115,chevrolet,chevrolet monte carlo s,73,usa,8,15,350,145.0,4082
+116,pontiac,pontiac grand prix,73,usa,8,16,400,230.0,4278
+117,fiat,fiat 128,73,europe,4,29,68,49.0,1867
+118,opel,opel manta,73,europe,4,24,116,75.0,2158
+119,audi,audi 100ls,73,europe,4,20,114,91.0,2582
+120,volvo,volvo 144ea,73,europe,4,19,121,112.0,2868
+121,dodge,dodge dart custom,73,usa,8,15,318,150.0,3399
+122,saab,saab 99le,73,europe,4,24,121,110.0,2660
+123,toyota,toyota mark ii,73,japan,6,20,156,122.0,2807
+124,oldsmobile,oldsmobile omega,73,usa,8,11,350,180.0,3664
+125,plymouth,plymouth duster,74,usa,6,20,198,95.0,3102
+126,ford,ford maverick,74,usa,6,21,200,119.0,2875
+127,amc,amc hornet,74,usa,6,19,232,100.0,2901
+128,chevrolet,chevrolet nova,74,usa,6,15,250,100.0,3336
+129,datsun,datsun b210,74,japan,4,31,79,67.0,1950
+130,ford,ford pinto,74,usa,4,26,122,80.0,2451
+131,toyota,toyota corolla 1200,74,japan,4,32,71,65.0,1836
+132,chevrolet,chevrolet vega,74,usa,4,25,140,75.0,2542
+133,chevrolet,chevrolet chevelle malibu classic,74,usa,6,16,250,100.0,3781
+134,amc,amc matador,74,usa,6,16,258,110.0,3632
+135,plymouth,plymouth satellite sebring,74,usa,6,18,225,105.0,3613
+136,ford,ford gran torino,74,usa,8,16,302,140.0,4141
+137,buick,buick century luxus (sw),74,usa,8,13,350,150.0,4699
+138,dodge,dodge coronet custom (sw),74,usa,8,14,318,150.0,4457
+139,ford,ford gran torino (sw),74,usa,8,14,302,140.0,4638
+140,amc,amc matador (sw),74,usa,8,14,304,150.0,4257
+141,audi,audi fox,74,europe,4,29,98,83.0,2219
+142,volkswagen,volkswagen dasher,74,europe,4,26,79,67.0,1963
+143,opel,opel manta,74,europe,4,26,97,78.0,2300
+144,toyota,toyota corona,74,japan,4,31,76,52.0,1649
+145,datsun,datsun 710,74,japan,4,32,83,61.0,2003
+146,dodge,dodge colt,74,usa,4,28,90,75.0,2125
+147,fiat,fiat 128,74,europe,4,24,90,75.0,2108
+148,fiat,fiat 124 tc,74,europe,4,26,116,75.0,2246
+149,honda,honda civic,74,japan,4,24,120,97.0,2489
+150,subaru,subaru,74,japan,4,26,108,93.0,2391
+151,fiat,fiat x1.9,74,europe,4,31,79,67.0,2000
+152,plymouth,plymouth valiant custom,75,usa,6,19,225,95.0,3264
+153,chevrolet,chevrolet nova,75,usa,6,18,250,105.0,3459
+154,mercury,mercury monarch,75,usa,6,15,250,72.0,3432
+155,ford,ford maverick,75,usa,6,15,250,72.0,3158
+156,pontiac,pontiac catalina,75,usa,8,16,400,170.0,4668
+157,chevrolet,chevrolet bel air,75,usa,8,15,350,145.0,4440
+158,plymouth,plymouth grand fury,75,usa,8,16,318,150.0,4498
+159,ford,ford ltd,75,usa,8,14,351,148.0,4657
+160,buick,buick century,75,usa,6,17,231,110.0,3907
+161,chevrolet,chevroelt chevelle malibu,75,usa,6,16,250,105.0,3897
+162,amc,amc matador,75,usa,6,15,258,110.0,3730
+163,plymouth,plymouth fury,75,usa,6,18,225,95.0,3785
+164,buick,buick skyhawk,75,usa,6,21,231,110.0,3039
+165,chevrolet,chevrolet monza 2+2,75,usa,8,20,262,110.0,3221
+166,ford,ford mustang ii,75,usa,8,13,302,129.0,3169
+167,toyota,toyota corolla,75,japan,4,29,97,75.0,2171
+168,ford,ford pinto,75,usa,4,23,140,83.0,2639
+169,amc,amc gremlin,75,usa,6,20,232,100.0,2914
+170,pontiac,pontiac astro,75,usa,4,23,140,78.0,2592
+171,toyota,toyota corona,75,japan,4,24,134,96.0,2702
+172,volkswagen,volkswagen dasher,75,europe,4,25,90,71.0,2223
+173,datsun,datsun 710,75,japan,4,24,119,97.0,2545
+174,ford,ford pinto,75,usa,6,18,171,97.0,2984
+175,volkswagen,volkswagen rabbit,75,europe,4,29,90,70.0,1937
+176,amc,amc pacer,75,usa,6,19,232,90.0,3211
+177,audi,audi 100ls,75,europe,4,23,115,95.0,2694
+178,peugeot,peugeot 504,75,europe,4,23,120,88.0,2957
+179,volvo,volvo 244dl,75,europe,4,22,121,98.0,2945
+180,saab,saab 99le,75,europe,4,25,121,115.0,2671
+181,honda,honda civic cvcc,75,japan,4,33,91,53.0,1795
+182,fiat,fiat 131,76,europe,4,28,107,86.0,2464
+183,opel,opel 1900,76,europe,4,25,116,81.0,2220
+184,capri,capri ii,76,usa,4,25,140,92.0,2572
+185,dodge,dodge colt,76,usa,4,26,98,79.0,2255
+186,renault,renault 12tl,76,europe,4,27,101,83.0,2202
+187,chevrolet,chevrolet chevelle malibu classic,76,usa,8,17,305,140.0,4215
+188,dodge,dodge coronet brougham,76,usa,8,16,318,150.0,4190
+189,amc,amc matador,76,usa,8,15,304,120.0,3962
+190,ford,ford gran torino,76,usa,8,14,351,152.0,4215
+191,plymouth,plymouth valiant,76,usa,6,22,225,100.0,3233
+192,chevrolet,chevrolet nova,76,usa,6,22,250,105.0,3353
+193,ford,ford maverick,76,usa,6,24,200,81.0,3012
+194,amc,amc hornet,76,usa,6,22,232,90.0,3085
+195,chevrolet,chevrolet chevette,76,usa,4,29,85,52.0,2035
+196,chevrolet,chevrolet woody,76,usa,4,24,98,60.0,2164
+197,vw,vw rabbit,76,europe,4,29,90,70.0,1937
+198,honda,honda civic,76,japan,4,33,91,53.0,1795
+199,dodge,dodge aspen se,76,usa,6,20,225,100.0,3651
+200,ford,ford granada ghia,76,usa,6,18,250,78.0,3574
+201,pontiac,pontiac ventura sj,76,usa,6,18,250,110.0,3645
+202,amc,amc pacer d/l,76,usa,6,17,258,95.0,3193
+203,volkswagen,volkswagen rabbit,76,europe,4,29,97,71.0,1825
+204,datsun,datsun b-210,76,japan,4,32,85,70.0,1990
+205,toyota,toyota corolla,76,japan,4,28,97,75.0,2155
+206,ford,ford pinto,76,usa,4,26,140,72.0,2565
+207,volvo,volvo 245,76,europe,4,20,130,102.0,3150
+208,plymouth,plymouth volare premier v8,76,usa,8,13,318,150.0,3940
+209,peugeot,peugeot 504,76,europe,4,19,120,88.0,3270
+210,toyota,toyota mark ii,76,japan,6,19,156,108.0,2930
+211,mercedes-benz,mercedes-benz 280s,76,europe,6,16,168,120.0,3820
+212,cadillac,cadillac seville,76,usa,8,16,350,180.0,4380
+213,chevrolet,chevy c10,76,usa,8,13,350,145.0,4055
+214,ford,ford f108,76,usa,8,13,302,130.0,3870
+215,dodge,dodge d100,76,usa,8,13,318,150.0,3755
+216,honda,honda accord cvcc,77,japan,4,31,98,68.0,2045
+217,buick,buick opel isuzu deluxe,77,usa,4,30,111,80.0,2155
+218,renault,renault 5 gtl,77,europe,4,36,79,58.0,1825
+219,plymouth,plymouth arrow gs,77,usa,4,25,122,96.0,2300
+220,datsun,datsun f-10 hatchback,77,japan,4,33,85,70.0,1945
+221,chevrolet,chevrolet caprice classic,77,usa,8,17,305,145.0,3880
+222,oldsmobile,oldsmobile cutlass supreme,77,usa,8,17,260,110.0,4060
+223,dodge,dodge monaco brougham,77,usa,8,15,318,145.0,4140
+224,mercury,mercury cougar brougham,77,usa,8,15,302,130.0,4295
+225,chevrolet,chevrolet concours,77,usa,6,17,250,110.0,3520
+226,buick,buick skylark,77,usa,6,20,231,105.0,3425
+227,plymouth,plymouth volare custom,77,usa,6,19,225,100.0,3630
+228,ford,ford granada,77,usa,6,18,250,98.0,3525
+229,pontiac,pontiac grand prix lj,77,usa,8,16,400,180.0,4220
+230,chevrolet,chevrolet monte carlo landau,77,usa,8,15,350,170.0,4165
+231,chrysler,chrysler cordoba,77,usa,8,15,400,190.0,4325
+232,ford,ford thunderbird,77,usa,8,16,351,149.0,4335
+233,volkswagen,volkswagen rabbit custom,77,europe,4,29,97,78.0,1940
+234,pontiac,pontiac sunbird coupe,77,usa,4,24,151,88.0,2740
+235,toyota,toyota corolla liftback,77,japan,4,26,97,75.0,2265
+236,ford,ford mustang ii 2+2,77,usa,4,25,140,89.0,2755
+237,chevrolet,chevrolet chevette,77,usa,4,30,98,63.0,2051
+238,dodge,dodge colt m/m,77,usa,4,33,98,83.0,2075
+239,subaru,subaru dl,77,japan,4,30,97,67.0,1985
+240,volkswagen,volkswagen dasher,77,europe,4,30,97,78.0,2190
+241,datsun,datsun 810,77,japan,6,22,146,97.0,2815
+242,bmw,bmw 320i,77,europe,4,21,121,110.0,2600
+243,mazda,mazda rx-4,77,japan,3,21,80,110.0,2720
+244,volkswagen,volkswagen rabbit custom diesel,78,europe,4,43,90,48.0,1985
+245,ford,ford fiesta,78,usa,4,36,98,66.0,1800
+246,mazda,mazda glc deluxe,78,japan,4,32,78,52.0,1985
+247,datsun,datsun b210 gx,78,japan,4,39,85,70.0,2070
+248,honda,honda civic cvcc,78,japan,4,36,91,60.0,1800
+249,oldsmobile,oldsmobile cutlass salon brougham,78,usa,8,19,260,110.0,3365
+250,dodge,dodge diplomat,78,usa,8,19,318,140.0,3735
+251,mercury,mercury monarch ghia,78,usa,8,20,302,139.0,3570
+252,pontiac,pontiac phoenix lj,78,usa,6,19,231,105.0,3535
+253,chevrolet,chevrolet malibu,78,usa,6,20,200,95.0,3155
+254,ford,ford fairmont (auto),78,usa,6,20,200,85.0,2965
+255,ford,ford fairmont (man),78,usa,4,25,140,88.0,2720
+256,plymouth,plymouth volare,78,usa,6,20,225,100.0,3430
+257,amc,amc concord,78,usa,6,19,232,90.0,3210
+258,buick,buick century special,78,usa,6,20,231,105.0,3380
+259,mercury,mercury zephyr,78,usa,6,20,200,85.0,3070
+260,dodge,dodge aspen,78,usa,6,18,225,110.0,3620
+261,amc,amc concord d/l,78,usa,6,18,258,120.0,3410
+262,chevrolet,chevrolet monte carlo landau,78,usa,8,19,305,145.0,3425
+263,buick,buick regal sport coupe (turbo),78,usa,6,17,231,165.0,3445
+264,ford,ford futura,78,usa,8,18,302,139.0,3205
+265,dodge,dodge magnum xe,78,usa,8,17,318,140.0,4080
+266,chevrolet,chevrolet chevette,78,usa,4,30,98,68.0,2155
+267,toyota,toyota corona,78,japan,4,27,134,95.0,2560
+268,datsun,datsun 510,78,japan,4,27,119,97.0,2300
+269,dodge,dodge omni,78,usa,4,30,105,75.0,2230
+270,toyota,toyota celica gt liftback,78,japan,4,21,134,95.0,2515
+271,plymouth,plymouth sapporo,78,usa,4,23,156,105.0,2745
+272,oldsmobile,oldsmobile starfire sx,78,usa,4,23,151,85.0,2855
+273,datsun,datsun 200-sx,78,japan,4,23,119,97.0,2405
+274,audi,audi 5000,78,europe,5,20,131,103.0,2830
+275,volvo,volvo 264gl,78,europe,6,17,163,125.0,3140
+276,saab,saab 99gle,78,europe,4,21,121,115.0,2795
+277,peugeot,peugeot 604sl,78,europe,6,16,163,133.0,3410
+278,volkswagen,volkswagen scirocco,78,europe,4,31,89,71.0,1990
+279,honda,honda accord lx,78,japan,4,29,98,68.0,2135
+280,pontiac,pontiac lemans v6,79,usa,6,21,231,115.0,3245
+281,mercury,mercury zephyr 6,79,usa,6,19,200,85.0,2990
+282,ford,ford fairmont 4,79,usa,4,22,140,88.0,2890
+283,amc,amc concord dl 6,79,usa,6,20,232,90.0,3265
+284,dodge,dodge aspen 6,79,usa,6,20,225,110.0,3360
+285,chevrolet,chevrolet caprice classic,79,usa,8,17,305,130.0,3840
+286,ford,ford ltd landau,79,usa,8,17,302,129.0,3725
+287,mercury,mercury grand marquis,79,usa,8,16,351,138.0,3955
+288,dodge,dodge st. regis,79,usa,8,18,318,135.0,3830
+289,buick,buick estate wagon (sw),79,usa,8,16,350,155.0,4360
+290,ford,ford country squire (sw),79,usa,8,15,351,142.0,4054
+291,chevrolet,chevrolet malibu classic (sw),79,usa,8,19,267,125.0,3605
+292,chrysler,chrysler lebaron town @ country (sw),79,usa,8,18,360,150.0,3940
+293,vw,vw rabbit custom,79,europe,4,31,89,71.0,1925
+294,mazda,maxda glc deluxe,79,japan,4,34,86,65.0,1975
+295,dodge,dodge colt hatchback custom,79,usa,4,35,98,80.0,1915
+296,amc,amc spirit dl,79,usa,4,27,121,80.0,2670
+297,mercedes-benz,mercedes benz 300d,79,europe,5,25,183,77.0,3530
+298,cadillac,cadillac eldorado,79,usa,8,23,350,125.0,3900
+299,peugeot,peugeot 504,79,europe,4,27,141,71.0,3190
+300,oldsmobile,oldsmobile cutlass salon brougham,79,usa,8,23,260,90.0,3420
+301,plymouth,plymouth horizon,79,usa,4,34,105,70.0,2200
+302,plymouth,plymouth horizon tc3,79,usa,4,34,105,70.0,2150
+303,datsun,datsun 210,79,japan,4,31,85,65.0,2020
+304,fiat,fiat strada custom,79,europe,4,37,91,69.0,2130
+305,buick,buick skylark limited,79,usa,4,28,151,90.0,2670
+306,chevrolet,chevrolet citation,79,usa,6,28,173,115.0,2595
+307,oldsmobile,oldsmobile omega brougham,79,usa,6,26,173,115.0,2700
+308,pontiac,pontiac phoenix,79,usa,4,33,151,90.0,2556
+309,vw,vw rabbit,80,europe,4,41,98,76.0,2144
+310,toyota,toyota corolla tercel,80,japan,4,38,89,60.0,1968
+311,chevrolet,chevrolet chevette,80,usa,4,32,98,70.0,2120
+312,datsun,datsun 310,80,japan,4,37,86,65.0,2019
+313,chevrolet,chevrolet citation,80,usa,4,28,151,90.0,2678
+314,ford,ford fairmont,80,usa,4,26,140,88.0,2870
+315,amc,amc concord,80,usa,4,24,151,90.0,3003
+316,dodge,dodge aspen,80,usa,6,19,225,90.0,3381
+317,audi,audi 4000,80,europe,4,34,97,78.0,2188
+318,toyota,toyota corona liftback,80,japan,4,29,134,90.0,2711
+319,mazda,mazda 626,80,japan,4,31,120,75.0,2542
+320,datsun,datsun 510 hatchback,80,japan,4,37,119,92.0,2434
+321,toyota,toyota corolla,80,japan,4,32,108,75.0,2265
+322,mazda,mazda glc,80,japan,4,46,86,65.0,2110
+323,dodge,dodge colt,80,usa,4,27,156,105.0,2800
+324,datsun,datsun 210,80,japan,4,40,85,65.0,2110
+325,vw,vw rabbit c (diesel),80,europe,4,44,90,48.0,2085
+326,vw,vw dasher (diesel),80,europe,4,43,90,48.0,2335
+327,audi,audi 5000s (diesel),80,europe,5,36,121,67.0,2950
+328,mercedes-benz,mercedes-benz 240d,80,europe,4,30,146,67.0,3250
+329,honda,honda civic 1500 gl,80,japan,4,44,91,67.0,1850
+330,renault,renault lecar deluxe,80,europe,4,40,85,81.0,1835
+331,subaru,subaru dl,80,japan,4,33,97,67.0,2145
+332,vw,vokswagen rabbit,80,europe,4,29,89,62.0,1845
+333,datsun,datsun 280-zx,80,japan,6,32,168,132.0,2910
+334,mazda,mazda rx-7 gs,80,japan,3,23,70,100.0,2420
+335,triumph,triumph tr7 coupe,80,europe,4,35,122,88.0,2500
+336,ford,ford mustang cobra,80,usa,4,23,140,119.0,2905
+337,honda,honda accord,80,japan,4,32,107,72.0,2290
+338,plymouth,plymouth reliant,81,usa,4,27,135,84.0,2490
+339,buick,buick skylark,81,usa,4,26,151,84.0,2635
+340,dodge,dodge aries wagon (sw),81,usa,4,25,156,92.0,2620
+341,chevrolet,chevrolet citation,81,usa,6,23,173,110.0,2725
+342,plymouth,plymouth reliant,81,usa,4,30,135,84.0,2385
+343,toyota,toyota starlet,81,japan,4,39,79,58.0,1755
+344,plymouth,plymouth champ,81,usa,4,39,86,64.0,1875
+345,honda,honda civic 1300,81,japan,4,35,81,60.0,1760
+346,subaru,subaru,81,japan,4,32,97,67.0,2065
+347,datsun,datsun 210 mpg,81,japan,4,37,85,65.0,1975
+348,toyota,toyota tercel,81,japan,4,37,89,62.0,2050
+349,mazda,mazda glc 4,81,japan,4,34,91,68.0,1985
+350,plymouth,plymouth horizon 4,81,usa,4,34,105,63.0,2215
+351,ford,ford escort 4w,81,usa,4,34,98,65.0,2045
+352,ford,ford escort 2h,81,usa,4,29,98,65.0,2380
+353,volkswagen,volkswagen jetta,81,europe,4,33,105,74.0,2190
+354,renault,renault 18i,81,europe,4,34,100,81.0,2320
+355,honda,honda prelude,81,japan,4,33,107,75.0,2210
+356,toyota,toyota corolla,81,japan,4,32,108,75.0,2350
+357,datsun,datsun 200sx,81,japan,4,32,119,100.0,2615
+358,mazda,mazda 626,81,japan,4,31,120,74.0,2635
+359,peugeot,peugeot 505s turbo diesel,81,europe,4,28,141,80.0,3230
+360,volvo,volvo diesel,81,europe,6,30,145,76.0,3160
+361,toyota,toyota cressida,81,japan,6,25,168,116.0,2900
+362,datsun,datsun 810 maxima,81,japan,6,24,146,120.0,2930
+363,buick,buick century,81,usa,6,22,231,110.0,3415
+364,oldsmobile,oldsmobile cutlass ls,81,usa,8,26,350,105.0,3725
+365,ford,ford granada gl,81,usa,6,20,200,88.0,3060
+366,chrysler,chrysler lebaron salon,81,usa,6,17,225,85.0,3465
+367,chevrolet,chevrolet cavalier,82,usa,4,28,112,88.0,2605
+368,chevrolet,chevrolet cavalier wagon,82,usa,4,27,112,88.0,2640
+369,chevrolet,chevrolet cavalier 2-door,82,usa,4,34,112,88.0,2395
+370,pontiac,pontiac j2000 se hatchback,82,usa,4,31,112,85.0,2575
+371,dodge,dodge aries se,82,usa,4,29,135,84.0,2525
+372,pontiac,pontiac phoenix,82,usa,4,27,151,90.0,2735
+373,ford,ford fairmont futura,82,usa,4,24,140,92.0,2865
+374,amc,amc concord dl,82,usa,4,23,151,119.0,3035
+375,volkswagen,volkswagen rabbit l,82,europe,4,36,105,74.0,1980
+376,mazda,mazda glc custom l,82,japan,4,37,91,68.0,2025
+377,mazda,mazda glc custom,82,japan,4,31,91,68.0,1970
+378,plymouth,plymouth horizon miser,82,usa,4,38,105,63.0,2125
+379,mercury,mercury lynx l,82,usa,4,36,98,70.0,2125
+380,nissan,nissan stanza xe,82,japan,4,36,120,88.0,2160
+381,honda,honda accord,82,japan,4,36,107,75.0,2205
+382,toyota,toyota corolla,82,japan,4,34,108,70.0,2245
+383,honda,honda civic,82,japan,4,38,91,67.0,1965
+384,honda,honda civic (auto),82,japan,4,32,91,67.0,1965
+385,datsun,datsun 310 gx,82,japan,4,38,91,67.0,1995
+386,buick,buick century limited,82,usa,6,25,181,110.0,2945
+387,oldsmobile,oldsmobile cutlass ciera (diesel),82,usa,6,38,262,85.0,3015
+388,chrysler,chrysler lebaron medallion,82,usa,4,26,156,92.0,2585
+389,ford,ford granada l,82,usa,6,22,232,112.0,2835
+390,toyota,toyota celica gt,82,japan,4,32,144,96.0,2665
+391,dodge,dodge charger 2.2,82,usa,4,36,135,84.0,2370
+392,chevrolet,chevrolet camaro,82,usa,4,27,151,90.0,2950
+393,ford,ford mustang gl,82,usa,4,27,140,86.0,2790
+394,vw,vw pickup,82,europe,4,44,97,52.0,2130
+395,dodge,dodge rampage,82,usa,4,32,135,84.0,2295
+396,ford,ford ranger,82,usa,4,28,120,79.0,2625
+397,chevrolet,chevy s-10,82,usa,4,31,119,82.0,2720
